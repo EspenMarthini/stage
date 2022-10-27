@@ -1,12 +1,35 @@
 {
-    "siteposition": "",
-    "storeys": {
-        "EU1": "Mir_somatisk U etg",
-        "E01": "Mir_somatisk 1 etg",
-        "E02": "Mir_somatisk 2 etg",
-        "E03": "Mir_somatisk 3 etg",
-        "E04": "Mir_somatisk 4 etg",
-        "E05": "Mir_somatisk 5 etg",
-        "E06": "Mir_somatisk 6 etg"
-    }
-  }
+	"tag": "NMH.Y.SYKEHUS.HN.H.MOIRANA.SJOFORSGATA.HOVEDBYGG",
+	"storeys": {
+		"EU1": "Mir_somatisk U etg",
+		"E01": "Mir_somatisk 1 etg",
+		"E02": "Mir_somatisk 2 etg",
+		"E03": "Mir_somatisk 3 etg",
+		"E04": "Mir_somatisk 4 etg",
+		"E05": "Mir_somatisk 5 etg",
+		"E06": "Mir_somatisk 6 etg"
+	},
+	"buildingdimensions": {
+		"v1": {
+			"x": 0,
+			"y": 20.11,
+			"z": 0
+		},
+		"v2": {
+			"x": 112.61,
+			"y": 0,
+			"z": 0
+		},
+		"v3": {
+			"x": 0,
+			"y": 78.4,
+			"z": 30
+		}
+	},
+	"buildinglat": 66.32595328821219,
+	"buildinglong": 14.1852250223792,
+	"building2lat": 66.32597229455098,
+	"building2long": 14.1877771172976,
+	"xAnchorDisplacement": 0,
+	"yAnchorDisplacement": 10.33
+}
