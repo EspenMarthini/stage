@@ -9,6 +9,7 @@
 		"E05": "Mir_somatisk 5 etg",
 		"E06": "Mir_somatisk 6 etg"
 	},
+	"numberofstoreys": 7,
 	"buildingdimensions": {
 		"v1": {
 			"x": 0,
@@ -31,5 +32,14 @@
 	"building2lat": 66.32597229455098,
 	"building2long": 14.1877771172976,
 	"xAnchorDisplacement": 0,
-	"yAnchorDisplacement": 10.33
+	"yAnchorDisplacement": 10.33,
+	"matrikkelnr": "13242342355",
+	"buildingYear": 1981,
+	"buildingType": "Sykehus",
+	"buildingProtectionStatus": "1. fredning",
+	"buildingAddress": "Sjøforsgata 36",
+	"buildingNetArea": 5705,
+	"buildingGrossArea": 6754,
+	"numberOfRooms": 1231,
+	"operationsManager": ""
 }
